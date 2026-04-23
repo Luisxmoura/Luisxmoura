@@ -14,7 +14,7 @@ I'm focused on learning software engineering, cybersecurity, and game developmen
 - **Tech:** Python, `hashlib`, `json`.
 - **Security Features:** SHA-256 salted hashing, account locking mechanism, and entropy-based password strength analysis.
 
-### 🍬 [Number Rush](https://github.com/Luisxmoura/sugar-rush-number-fusion)
+### 🍬 [Number Rush](https://github.com/Luisxmoura/number_rush_game)
 **Game Development - Godot 4**
 - A candy-themed match-3 cluster fusion game (Candy Crush meets 2048).
 - **Tech:** Godot Engine 4, GDScript.
