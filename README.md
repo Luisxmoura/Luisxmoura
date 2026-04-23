@@ -3,7 +3,6 @@
 ## 🎓 Computer Science Student
 I'm focused on learning software engineering, cybersecurity, and game development.
 
-## 📊 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisxmoura&layout=compact&theme=radical)
 
 
