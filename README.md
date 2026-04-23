@@ -4,7 +4,6 @@
 I'm focused on learning software engineering, cybersecurity, and game development.
 
 ## 📊 My Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Luisxmoura&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisxmoura&layout=compact&theme=radical)
 
 
