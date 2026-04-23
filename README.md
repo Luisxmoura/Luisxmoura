@@ -1,9 +1,5 @@
 # Hi there, I'm Luis Moura! 👋
 
-## 🎓 Computer Science Student
-I'm focused on learning software engineering, cybersecurity, and game development.
-# Hi there, I'm Luis Moura! 👋
-
 <table>
   <tr>
     <td width=\"50%\" valign=\"top\">
