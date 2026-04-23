@@ -20,7 +20,7 @@ I'm focused on learning software engineering, cybersecurity, and game developmen
 - **Tech:** Godot Engine 4, GDScript.
 - **Highlights:** Dynamic color system using the Golden Ratio and BFS flood-fill for cluster detection.
 
-### 🌿 [GreenTrack](https://github.com/Luisxmoura/GreenTrack-C-Programming-Lab)
+### 🌿 [GreenTrack](https://github.com/Luisxmoura/secure-auth-system)
 **Systems Programming - C**
 - Modular garden management system focused on bug fixing and refactoring.
 - **Goal:** Transforming a monolithic application into a modular architecture.
