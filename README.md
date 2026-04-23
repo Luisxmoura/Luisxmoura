@@ -1,17 +1,12 @@
 # Hi there, I'm Luis Moura! 👋
 
-<table>
-  <tr>
-    <td width=\"50%\" valign=\"top\">
-      <h3>🎓 Computer Science Student</h3>
-      <p>I'm focused on learning software engineering, cybersecurity, and game development. I enjoy solving complex problems and building efficient systems.</p>
-      <p>📫 <b>How to reach me:</b> [Teu Email ou LinkedIn]</p>
-    </td>
-    <td width=\"50%\" valign=\"top\">
-      <img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=Luisxmoura&show_icons=true&theme=radical&display_format=v2\" />
-    </td>
-  </tr>
-</table>
+## 🎓 Computer Science Student
+I'm focused on learning software engineering, cybersecurity, and game development.
+
+## 📊 My Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Luisxmoura&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisxmoura&layout=compact&theme=radical)
+
 
 ## 🚀 Featured Projects
 
@@ -39,9 +34,5 @@
 - **Tech:** HTML5, CSS3, Vanilla JavaScript.
 - **Features:** Dark Mode, dynamic translation engine, and image zoom modals.
 
-## 📊 My Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Luisxmoura&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisxmoura&layout=compact&theme=radical)
 
----
 - 📫 How to reach me: https://www.linkedin.com/in/luisxmoura/
