@@ -2,6 +2,20 @@
 
 ## 🎓 Computer Science Student
 I'm focused on learning software engineering, cybersecurity, and game development.
+# Hi there, I'm Luis Moura! 👋
+
+<table>
+  <tr>
+    <td width=\"50%\" valign=\"top\">
+      <h3>🎓 Computer Science Student</h3>
+      <p>I'm focused on learning software engineering, cybersecurity, and game development. I enjoy solving complex problems and building efficient systems.</p>
+      <p>📫 <b>How to reach me:</b> [Teu Email ou LinkedIn]</p>
+    </td>
+    <td width=\"50%\" valign=\"top\">
+      <img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=Luisxmoura&show_icons=true&theme=radical&display_format=v2\" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
