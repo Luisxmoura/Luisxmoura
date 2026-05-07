@@ -3,8 +3,6 @@
 ## 🎓 Computer Science Student
 Aspiring Software Engineer with a passion for building secure and efficient applications. Currently exploring the intersection of Cybersecurity, Systems Programming, and Web Technologies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisxmoura&layout=compact&theme=radical)
-
 
 ## 🚀 Featured Projects
 
